@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+:root{
+  font-family: Google Sans;
+  /* color-scheme: dark; */
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: Outfit;
+}
